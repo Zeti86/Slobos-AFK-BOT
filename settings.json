@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "Laci",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Laci",
     "password": "",
     "type": "offline"
   },
@@ -12,9 +12,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 100,
     "y": 100,
-    "z": 0
+    "z": 100
   },
   "utils": {
     "auto-auth": {
